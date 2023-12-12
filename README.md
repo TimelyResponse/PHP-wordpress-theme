@@ -10,10 +10,6 @@
 
 ## Features:
 
-- ![](demo/features-one.png)
-
-- ![](demo/features-two.png)
-
 - Custom front page.
 - Custom Blog page with posts displayed in grid format using bootstrap.
 - Block Style Variations
