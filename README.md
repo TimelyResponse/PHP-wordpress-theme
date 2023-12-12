@@ -1,15 +1,12 @@
-# [WordPress Theme - Aquila](https://youtu.be/lNtw4yxEydM) 🎨
-[![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+# [WordPress Theme]🎨
+
 
 * A WordPress theme Project for Advanced WordPress Theme Development Course.
-This theme uses Bootstrap. [Learn](https://www.youtube.com/playlist?list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEVK9h) to build an Advanced WordPress Theme from scratch
 
-<a href="https://codeytek.com/course/advanced-wordpress-theme-development-course/" target="_blank">
-<img src="https://codeytek.com/wp-content/uploads/2020/07/banner.png" alt="WordPress theme development banner" />
-</a>
+
 
 ## [Tutorial Course](https://codeytek.com/course/advanced-wordpress-theme-development-course/)
-## Also See - [Advanced WordPress Plugin Development](https://github.com/imranhsayed/aquila-features)
+## Also See - [Advanced WordPress Plugin Development](https://github.com/TimelyResponse/PHP-wordpress-theme)
 
 ## Features:
 
@@ -31,7 +28,7 @@ This theme uses Bootstrap. [Learn](https://www.youtube.com/playlist?list=PLD8nQC
 
 ## Usage
 
-1. Clone the WordPress theme [aquila](https://github.com/imranhsayed/aquila) in your WordPress
+1. Clone the WordPress theme [aquila](https://github.com/TimelyResponse/PHP-wordpress-theme) in your WordPress
 themes directory and activate it.
 
 ## Dashboard Setup.
